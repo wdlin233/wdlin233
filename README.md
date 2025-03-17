@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm wdlin.
+
+![wdlin233](https://komarev.com/ghpvc/?username=wdlin233&label=PROFILE+VIEWS)
+
+I’m currently learning operating system and compiler.
+
+![wdlin233's github stats](https://github-readme-stats.vercel.app/api?username=wdlin233&count_private=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdlin233&layout=compact&count_private=true&theme=dracula)
 
 <!--
 **wdlin233/wdlin233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
