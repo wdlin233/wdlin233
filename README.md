@@ -2,7 +2,7 @@
 
 ![wdlin233](https://komarev.com/ghpvc/?username=wdlin233&label=PROFILE+VIEWS)
 
-I’m currently learning operating system and compiler.
+I am a sophomore student major in Computer Science and interested in operating system and compiler.
 
 ![wdlin233's github stats](https://github-readme-stats.vercel.app/api?username=wdlin233&count_private=true&theme=dracula)
 
