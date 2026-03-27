@@ -2,11 +2,18 @@
 
 ![wdlin233](https://komarev.com/ghpvc/?username=wdlin233&label=PROFILE+VIEWS)
 
-I am a junior student major in Computer Science and interested in operating system and compiler.
+I am a junior student major in Computer Science and interested in HPC (x AI), Compiler and Operating System.
 
-![wdlin233's github stats](https://github-readme-stats.vercel.app/api?username=wdlin233&count_private=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdlin233&layout=compact&count_private=true&theme=dracula)
+<table>
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=wdlin233&show_icons=true&theme=dracula&bg_color=0000&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=wdlin233&layout=compact&theme=dracula&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+    </th>
+  </tr>
+</table>
 
 <!--
 **wdlin233/wdlin233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
